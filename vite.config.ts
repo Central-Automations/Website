@@ -14,5 +14,5 @@ export default defineConfig({
     outDir: "dist",
     emptyOutDir: true,
   },
-  base: "/", // Change this to your repository name if deploying to GitHub Pages with a custom path
+  base: "/Website/", // <-- This is the key change
 });
